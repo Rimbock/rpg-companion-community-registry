@@ -1533,5 +1533,18 @@
     "github_repo": "Ryu-Krynn/Ryu-s-Extended-5e-compendium",
     "repo_url": "https://Ryu-Krynn.github.io/Ryu-s-Extended-5e-compendium/",
     "has_system": false
+  },
+  {
+    "name": "New-Cleric-in-the-old-",
+    "description": "This is just the new Cleric that I'm hoping to be able to import into the old DND rules.",
+    "tags": [
+      "5e2024",
+      "5e",
+      "cleric"
+    ],
+    "stars": 0,
+    "github_repo": "Rimbock/New-Cleric-in-the-old-",
+    "repo_url": "https://Rimbock.github.io/New-Cleric-in-the-old-/",
+    "has_system": false
   }
 ]
